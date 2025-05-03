@@ -1,4 +1,4 @@
-# **Flipkart Mobile Listings Dashboard**
+# **Which Mobile Features Matter Most to Customers?**
 
 ## **1. Introduction**  
 This project focuses on creating an interactive dashboard using data collected by web scraping mobile phone listings from the Flipkart website. The primary objective is to analyze key trends in the mobile phone market, such as price distribution, brand performance, feature combinations, and customer engagement through ratings and reviews. This dashboard aims to help users and businesses make data-driven decisions regarding mobile phone purchases and marketing strategies.
